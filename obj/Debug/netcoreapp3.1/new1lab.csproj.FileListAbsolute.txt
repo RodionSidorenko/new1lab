@@ -1,0 +1,13 @@
+C:\Users\mirelego\Documents\GitHub\new1lab\bin\Debug\netcoreapp3.1\new1lab.exe
+C:\Users\mirelego\Documents\GitHub\new1lab\bin\Debug\netcoreapp3.1\new1lab.deps.json
+C:\Users\mirelego\Documents\GitHub\new1lab\bin\Debug\netcoreapp3.1\new1lab.runtimeconfig.json
+C:\Users\mirelego\Documents\GitHub\new1lab\bin\Debug\netcoreapp3.1\new1lab.runtimeconfig.dev.json
+C:\Users\mirelego\Documents\GitHub\new1lab\bin\Debug\netcoreapp3.1\new1lab.dll
+C:\Users\mirelego\Documents\GitHub\new1lab\bin\Debug\netcoreapp3.1\new1lab.pdb
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.csprojAssemblyReference.cache
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.AssemblyInfoInputs.cache
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.AssemblyInfo.cs
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.csproj.CoreCompileInputs.cache
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.dll
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.pdb
+C:\Users\mirelego\Documents\GitHub\new1lab\obj\Debug\netcoreapp3.1\new1lab.genruntimeconfig.cache
